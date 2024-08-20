@@ -16,3 +16,35 @@ Template repository for libraries for Java applications.
 [![mvn](https://github.com/ilyalisov/INSERTHERE/actions/workflows/maven-build.yml/badge.svg)](https://github.com/ilyalisov/INSERTHERE/actions/workflows/maven-build.yml)
 
 [![codecov](https://codecov.io/gh/IlyaLisov/INSERTHERE/graph/badge.svg?token=OJR6TFQ2qr)](https://codecov.io/gh/IlyaLisov/INSERTHERE)
+
+## Content:
+
+* [How to use](#how-to-use)
+    * [Prerequisites](#prerequisites)
+* [How to contribute](#how-to-contribute)
+
+## How to use
+
+At first, you need to install this library.
+
+With Maven add dependency to your `pom.xml`.
+
+```xml
+
+<dependency>
+    <groupId>io.github.ilyalisov</groupId>
+    <artifactId>INSERTHERE</artifactId>
+    <version>0.1.0</version>
+</dependency>
+```
+
+This library provides simple and convenient usage.
+
+### Prerequisites
+
+
+
+## How to contribute
+
+See active issues
+at [issues page](https://github.com/ilyalisov/spring-boot-starter-mail/issues)
